@@ -1,4 +1,5 @@
 # conflict_test
 Conflict test for MATLAB
 
-Commit #1 
+Commit #1
+Commit #2
